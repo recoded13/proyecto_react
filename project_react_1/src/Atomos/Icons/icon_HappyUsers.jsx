@@ -1,7 +1,7 @@
 
 const HappyUsers = () => {
     return (
-        <iconify-icon icon="mdi:account-group"></iconify-icon>
+        <img src="project_react_1/public/pics/icon002.png" alt="Icon Happy Users" />
     )
 }
 
