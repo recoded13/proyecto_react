@@ -1,8 +1,8 @@
 
-const HappyUsers = () => {
+const iconHappyUsers = () => {
     return (
         <img src="project_react_1/public/pics/icon002.png" alt="Icon Happy Users" />
     )
 }
 
-export default HappyUsers
+export default iconHappyUsers
